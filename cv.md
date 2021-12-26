@@ -66,3 +66,7 @@
 **_Languages:_**
 
 -  English - Advanced
+   ![](https://raw.githubusercontent.com/DenisCh88/rsschool-cv/gh-pages/02.png)
+-  Ukrainian - Native
+-  Russian - Native
+-  Polish - Basic
