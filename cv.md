@@ -59,4 +59,10 @@
 
 **_Courses:_**
 
-1. ![](https://raw.githubusercontent.com/DenisCh88/rsschool-cv/gh-pages/01.png)
+1. Front-end for beginners on Web Academy (complated)
+   ![](https://raw.githubusercontent.com/DenisCh88/rsschool-cv/gh-pages/01.png)
+2. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+**_Languages:_**
+
+-  English - Advanced
