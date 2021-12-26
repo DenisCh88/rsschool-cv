@@ -55,4 +55,8 @@
 
 ```
 
-**_[Experience](https://github.com/DenisCh88/rsschool-cv/blob/gh-pages/cv.md)_**
+**_Experience(https://denisch88.github.io/Thanos__landing/)_**
+
+**_Courses:_**
+
+1. !(https://raw.githubusercontent.com/DenisCh88/rsschool-cv/gh-pages/01.png)
